@@ -73,17 +73,6 @@ Use these files to complete the implementation:
 - `src/components/AppItem/index.js`
 - `src/components/AppItem/index.css`
 
-</details>
-
-### Important Note
-
-<details>
-<summary>Click to view</summary>
-
-<br/>
-
-</details>
-
 ### Resources
 <details>
 <summary>Colors</summary>
